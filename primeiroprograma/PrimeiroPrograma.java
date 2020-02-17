@@ -12,6 +12,7 @@ public class PrimeiroPrograma {
         //Aqui temos um novo objeto Date
         Date relogio = new Date();
         System.out.print("A hora agora é ");
+        //Usando metodo toString
         System.out.println(relogio.toString());
 
     }
