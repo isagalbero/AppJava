@@ -14,6 +14,7 @@ public class PrimeiroPrograma {
         System.out.print("A hora agora é ");
         //Usando metodo toString
         System.out.println(relogio.toString());
+        
 
     }
 
